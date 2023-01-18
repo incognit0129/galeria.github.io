@@ -51,12 +51,7 @@ body{
     backdrop-filter: blur(5px) saturate(1.8);
 }
 
-.gallery-item:hover .text{
-    opacity:1;
-    animation: move-down .3s linear;
-    padding:1em;
-    width:100%;
-}
+
 
 .w-1{
     grid-column: span 1;
